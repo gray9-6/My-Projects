@@ -8,7 +8,6 @@ body.appendChild(btnQurious);
 
 let speechRecognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
 
-speechRecognition.
 
 
 function doSomething(){
