@@ -9,7 +9,6 @@ body.appendChild(btnQurious);
 let speechRecognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
 
 
-
 function doSomething(){
     if(btnQurious.hasAttribute("listening") === false){
         btnQurious.setAttribute("listening",true);
