@@ -1,0 +1,35 @@
+should be available on all  websites
+should be invoked via  a button, keyboard shortcut  or voice command
+should take input via a voice command or text to know what to do 
+should be able to handle non - precise input smartly 
+should be able to give list of places, people, companies  int the current  web page. 
+
+
+List of people: should be able to give me the following for the list of people 
+    A brief
+    images
+    latest news
+    linkedin, twitter and insta handles: should  be able to follow  them  without leaving page
+    wikipedia
+    google search 
+
+List of places:  should be able to give me the following for the list of places
+    A breif 
+    map 
+    images
+    latest news 
+    wikipedia
+    google search
+
+List of companies: should be able to give me the following for the list of companies   
+    A breif 
+    key business leaders 
+    investors
+    websites 
+    images
+    latest news 
+    wikipedia
+    google search
+
+Acess chatgpt , bing , bard , google , maps,  wikipedia,  from the page itself 
+create and download images using ai while staying on the page

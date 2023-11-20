@@ -1,0 +1,27 @@
+Dream different features you want in your project . Don't worry about the feasibility.
+Identify resources to learn for getting started
+Learn from those resources, Keep it short . prefer official documents.
+Think of a set of tasks to help you get started with the projects.
+
+While tasks are not finished
+    Identify task for current cycle of building.
+    Identify resources to learn for achieving the task ( chatgpt , google , old resources)
+    learn from resources
+
+    Make an attempt to building the project 
+
+    Identify the gaps in knowledge
+    Identify resources to plug gaps in knowledge ( chatgpt, google , old resources)
+    learn from resources
+
+    update features list and taks list ( if you got new ideas, or sometimes what you thought was not possible)
+    want to redo the current task or a new  task in next cycle
+
+Identify gaps in knowledge
+Rethink resources  to plug gaps in knowledge
+learn from resources
+
+showcase the project to world : via video , github , deployed software
+
+Rethink projects you want to do 
+want to redo current project or new project 

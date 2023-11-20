@@ -1,0 +1,12 @@
+Assumtion  => you know basic coding in any language
+
+
+just learn these things don't mugup them , itna padh lo ki , yaad reh jaaye ki hum kya kya search kar sakte hai or kaha se  
+Learn in absorbing state of mind , not in questionning state of mind ( try to focus on absoring during the first time) 
+    Html = W3schools (4 hours)
+    Css = W3schools ( 4 hours for selectors and 4 hours for properties)
+    Js = W3schools ( 12 hours)
+
+
+chrome extensions ( always prefer official documents)
+    https://developer.chrome.com/docs/extensions/mv3/getstarted/  => (4 hours)
